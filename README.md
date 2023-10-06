@@ -16,7 +16,7 @@ Welcome to the Banking App!
 Live Demo 🔗
 
 To see a demo of Banking_App in action, visit 👇🏼👇🏼
-**[Banking_App](https://peppy-kitsune-70c303.netlify.app/)**
+**[Banking_App](https://friendly-beijinho-2fe656.netlify.app/)**
 
 Contribution 🤝
 
