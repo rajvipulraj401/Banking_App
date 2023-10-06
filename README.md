@@ -18,7 +18,7 @@ Welcome to the Banking App!
 To see a demo of Banking_App in action, visit 👇🏼👇🏼
 **[Banking_App](https://comforting-lokum-cbc0fd.netlify.app/)**
 
-![Banking App Screenshot](logo2.png)
+![Banking App Screenshot](Banking_App.png)
 
 ## Contribution 🤝
 
