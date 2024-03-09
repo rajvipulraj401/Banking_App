@@ -17,6 +17,8 @@ Welcome to the Banking App!
 
 To see a demo of Banking_App in action, visit 👇🏼👇🏼
 **[Banking_App](https://polite-zabaione-86c0fc.netlify.app/)**
+ user - jd , pin - 1211 
+TYPE this and it will work
 
 ![Banking App Screenshot](bank.png)
 
